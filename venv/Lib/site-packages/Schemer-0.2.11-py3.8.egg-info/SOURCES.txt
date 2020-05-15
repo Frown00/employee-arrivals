@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+Schemer.egg-info/PKG-INFO
+Schemer.egg-info/SOURCES.txt
+Schemer.egg-info/dependency_links.txt
+Schemer.egg-info/top_level.txt
+schemer/__init__.py
+schemer/exceptions.py
+schemer/extension_types.py
+schemer/validators.py
