@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Mongothon
+Version: 0.8.0
+Summary: A MongoDB object-document mapping layer for Python
+Home-page: http://github.com/gamechanger/mongothon
+Author: Tom Leach
+Author-email: tom@gc.io
+License: BSD
+Description: Mongothon is a MongoDB object-document mapping API for Python, loosely based on the awesome mongoose.js library.
+Keywords: mongo mongodb database pymongo odm validation
+Platform: UNKNOWN
